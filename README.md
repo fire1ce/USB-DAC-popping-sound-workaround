@@ -2,7 +2,7 @@
 
 Solving macOS (10.12+) issue of clicking impulse sound before and after playing any sound.
 
-Download application: https://github.com/d-velopment/macClick/raw/main/macOSClickFixusApp.zip 
+Download application: https://github.com/fire1ce/macClick/raw/main/macOSClickFixusApp.zip 
 
 Unzip.
 Copy to Application folder.
